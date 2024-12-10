@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 543a72c43ae674441b36c43b80402166
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 9b116def74d450549af70af4d532ec8f, type: 3}
+  - _CityLightMap: {fileID: 2800000, guid: 9b116def74d450549af70af4d532ec8f, type: 3}
+  - _CloudMap: {fileID: 2800000, guid: 6830c978b5a81a94cbb760a166fd5f7c, type: 3}
+  - _SpecularMap: {fileID: 2800000, guid: 30043056a8c241b48913af4daf2e328e, type: 3}
+  - _BumpMap: {fileID: 2800000, guid: 170ba97657f19cf4496d1ac860281fbb, type: 3}
+  - _HeightMap: {fileID: 2800000, guid: 5e0a897a24c87e240aa4c50719175048, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
